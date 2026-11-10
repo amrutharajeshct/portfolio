@@ -1,6 +1,6 @@
 /**
  * ============================================================================
- * ALEX MORGAN - MYSQL DEVELOPER PORTFOLIO
+ * AMRUTHA RAJESH C T - SQL DEVELOPER PORTFOLIO
  * Main JavaScript Controller
  * ============================================================================
  * Features:
@@ -50,6 +50,32 @@ document.addEventListener('DOMContentLoaded', () => {
   const messageInput = document.getElementById('contact-message');
   const charCounter = document.getElementById('char-counter');
   const formFeedback = document.getElementById('form-feedback');
+  const themeToggleBtn = document.getElementById('theme-toggle');
+
+  /* --------------------------------------------------------------------------
+     2. Theme Switcher (Light Theme Default with LocalStorage Persistence)
+     -------------------------------------------------------------------------- */
+  const savedTheme = localStorage.getItem('theme') || 'light';
+
+  const applyTheme = (theme) => {
+    document.documentElement.setAttribute('data-theme', theme);
+    localStorage.setItem('theme', theme);
+    if (themeToggleBtn) {
+      const isDark = theme === 'dark';
+      themeToggleBtn.setAttribute('aria-label', isDark ? 'Switch to Light Theme' : 'Switch to Dark Theme');
+      themeToggleBtn.setAttribute('title', isDark ? 'Switch to Light Theme' : 'Switch to Dark Theme');
+    }
+  };
+
+  applyTheme(savedTheme);
+
+  if (themeToggleBtn) {
+    themeToggleBtn.addEventListener('click', () => {
+      const currentTheme = document.documentElement.getAttribute('data-theme') || 'light';
+      const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+      applyTheme(newTheme);
+    });
+  }
 
   /* --------------------------------------------------------------------------
      2. Dynamic Year in Footer

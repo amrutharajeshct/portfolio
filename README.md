@@ -47,12 +47,14 @@ Then visit: `http://localhost:3000`
 
 ## 🎨 Design System & Visual Hierarchy
 
-- **Color Palette:**
-  - **Backgrounds:** Deep dark navy (`#0a0e17`) and charcoal slate (`#131c2e`, `#1a253c`).
-  - **Accent Colors:** Electric cyan/blue (`#38bdf8`) and indigo/purple (`#818cf8`, `#6366f1`).
-  - **Borders & Elevation:** Subtle `#1e293b` borders with soft glowing shadows.
-  - **Typography:** `Inter` for clean reading hierarchy and `JetBrains Mono` for SQL code, queries, and system metrics.
-- **Philosophy:** Minimalist, data-dense, elegant. Avoids excessive gradients and heavy animations, keeping focus on technical database competencies.
+- **Light Theme (Default):**
+  - **Backgrounds:** Clean, airy canvas (`#f8fafc`) with subtle alternating section contrast (`#f1f5f9`).
+  - **Cards & Surfaces:** Pure crisp white (`#ffffff`) with subtle `#e2e8f0` borders and soft elevation shadows.
+  - **Accent Colors:** Rich sky blue (`#0284c7`) and royal indigo/purple (`#6366f1`).
+  - **Typography:** Deep slate (`#0f172a`) headings, balanced slate (`#475569`) descriptions, and `JetBrains Mono` for SQL code.
+- **Theme Switcher:**
+  - One-click **Light / Dark Mode toggle** in the navigation header with automatic `localStorage` persistence.
+- **Philosophy:** Minimalist, data-dense, executive, and readable. Perfect for enterprise engineering and database recruiter reviews.
 
 ---
 
@@ -80,6 +82,7 @@ mysql-developer-portfolio/
 ### 1. Navigation
 - Fixed header with brand icon and "SQL" tag badge.
 - Links: **Home**, **About**, **Skills**, **Projects**, **Experience**, and **Contact**.
+- **Theme Toggle**: Switch between Light Theme (default) and Dark Theme with a single click in the header (persisted in `localStorage`).
 - **Active Section Highlighting (Scrollspy)**: Automatically updates the active link as you scroll past each section.
 - **Responsive Mobile Menu**: Animated hamburger button toggling a sliding drawer with focus management, backdrop overlay, and keyboard `Escape` closing.
 
