@@ -1,0 +1,112 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >> endobj
+4 0 obj << /Length 3008 >> stream
+BT
+/F1 16 Tf
+50 740 Td
+(AMRUTHA RAJESH C T) Tj
+/F1 8.5 Tf
+0 -18 Td
+(SQL Developer | Database Developer | T-SQL | Query Optimization | ETL | Azure SQL) Tj
+0 -14 Td
+(Phone: +91 9746810985 | Email: connectwithamruthact@gmail.com) Tj
+0 -14 Td
+(Location: Ernakulam, Kerala | Open to Relocation) Tj
+0 -14 Td
+(LinkedIn: linkedin.com/in/amrutharajeshct | GitHub: github.com/amrutharajeshct) Tj
+0 -14 Td
+(---------------------------------------------------------------------------------) Tj
+/F2 9.5 Tf
+0 -16 Td
+(PROFESSIONAL SUMMARY) Tj
+/F1 8.5 Tf
+0 -13 Td
+(SQL Developer with 2+ years of experience optimizing T-SQL, MySQL, and MariaDB systems,) Tj
+/F1 8.5 Tf
+0 -13 Td
+(delivering 30-40% query performance improvements and reducing critical report runtimes) Tj
+/F1 8.5 Tf
+0 -13 Td
+(from several minutes to under 15 seconds. Skilled in stored procedures, indexing strategies,) Tj
+/F1 8.5 Tf
+0 -13 Td
+(execution plan analysis, data migration, and production database troubleshooting.) Tj
+/F1 8.5 Tf
+0 -13 Td
+(Hands-on with SSMS, HeidiSQL, SQL Profiler, Query Store, SSIS, SSRS, Azure SQL, and Git.) Tj
+/F1 8.5 Tf
+0 -13 Td
+(---------------------------------------------------------------------------------) Tj
+/F2 9.5 Tf
+0 -16 Td
+(PROFESSIONAL EXPERIENCE) Tj
+/F2 9.5 Tf
+0 -16 Td
+(1. SQL Developer | PopIT Solutions, Vytilla, Kochi \(June 2026 - Present\)) Tj
+/F1 8.5 Tf
+0 -13 Td
+(   - Optimized complex multi-table SQL queries in MySQL and MariaDB.) Tj
+/F1 8.5 Tf
+0 -13 Td
+(   - Developed and maintained stored procedures, indexes, and database objects in HeidiSQL.) Tj
+/F1 8.5 Tf
+0 -13 Td
+(   - Resolved production database issues and performed data integrity validation checks.) Tj
+/F2 9.5 Tf
+0 -16 Td
+(2. Database Engineer | Perfect Software Solutions \(May 2025 - May 2026\)) Tj
+/F1 8.5 Tf
+0 -13 Td
+(   - Designed and maintained Microsoft SQL Server databases supporting enterprise ERP.) Tj
+/F1 8.5 Tf
+0 -13 Td
+(   - Built optimized T-SQL queries, stored procedures, views, UDFs, and triggers.) Tj
+/F1 8.5 Tf
+0 -13 Td
+(   - Achieved 30-40% performance improvement via execution plan analysis and indexing.) Tj
+/F1 8.5 Tf
+0 -13 Td
+(   - Led data migration projects and source-to-target reconciliation.) Tj
+/F2 9.5 Tf
+0 -16 Td
+(3. Freelance Database Support Engineer | Self-Employed \(Feb 2024 - Jan 2025\)) Tj
+/F1 8.5 Tf
+0 -13 Td
+(   - Administered SQL Server 2017/2019/2022, backups, RBAC, and query tuning.) Tj
+/F1 8.5 Tf
+0 -13 Td
+(---------------------------------------------------------------------------------) Tj
+/F2 9.5 Tf
+0 -16 Td
+(EDUCATION & CERTIFICATIONS) Tj
+/F1 8.5 Tf
+0 -13 Td
+(- B.Tech in Information Technology - Govt. Engineering College, Idukki \(2022 - 2025\)) Tj
+/F1 8.5 Tf
+0 -13 Td
+(- Diploma in Computer Engineering - Kerala Govt. Polytechnic, Kozhikode \(2019 - 2022\)) Tj
+/F1 8.5 Tf
+0 -13 Td
+(- SQL & Relational Databases \(IBM\) | Python for Everybody \(Google/Coursera\)) Tj
+/F1 8.5 Tf
+0 -13 Td
+(- AZ-900 Azure Fundamentals \(In Progress\) | Employability Skills \(Mahindra Pride\)) Tj
+ET
+endstream endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+6 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000258 00000 n 
+0000000390 00000 n 
+0000000469 00000 n 
+trailer << /Size 7 /Root 1 0 R >>
+startxref
+553
+%%EOF
